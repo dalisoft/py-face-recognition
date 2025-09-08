@@ -5,4 +5,4 @@ face-recognition-models @ git+https://github.com/ageitgey/face_recognition_model
 numpy==2.2.3
 opencv-python==4.11.0.86
 pillow==11.1.0
-setuptools==76.0.0
+setuptools==78.1.1
